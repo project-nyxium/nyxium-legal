@@ -2,7 +2,7 @@
 
 **Effective Date:** November 7, 2026  
 **Service:** Nyxium™ Discord Bot  
-**Version:** 1.0
+**Version:** 2.0
 
 Welcome to Nyxium™!
 
